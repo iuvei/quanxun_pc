@@ -1,0 +1,17 @@
+*{margin: 0;padding: 0;list-style: none}
+.menu{
+    width: 600px;
+    height: 50px;
+    display: flex;
+}
+.menu li{
+    text-align: center;
+    flex: 1;
+    line-height: 50px;
+    cursor: pointer;
+}
+.addClass{
+    border-left: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+    border-top: 1px solid #cccccc;
+}
